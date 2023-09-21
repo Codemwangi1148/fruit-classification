@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body{ background-color: aqua;}
+        h1{ color:blue;}
+        h2{ color:blue;}
+        h3{ color:blue;}
+        h4{ color:blue;}
+        h5{ color:blue;}
+        h6{ color:blue;}
+        p{ color:red;}
+    </style>
+        
+    <title><b>CLASSIFICATION OF FRUITS IN A GLOCCERY</b></title>
+</head>
+
+<body>
+<h1>Fresh fruits</h1>
+
+<p>These are whole, unprocessed fruits sold in their natural state.</p>
+<p>Examples: Apples, bananas, oranges, berries, grapes, pears, kiwis, and melons.</p>
+
+<h2>Citrus fruits</h2>
+
+<p>A subcategory of fresh fruits, citrus fruits are known for their high vitamin C content and distinct tart flavor.</p>
+<p>Examples: Oranges, lemons, limes, grapefruits, and tangerines.</p>
+
+<h3>Tropical fruits</h3>
+
+<p>Fruits that are typically grown in tropical regions and have unique flavors and textures.</p>
+<p>Examples: Pineapples, mangoes, papayas, coconuts, and guavas.</p>
+
+<h4>Stone Fruits</h4>
+
+<p>These fruits have a single large pit or stone inside.</p>
+<p>Examples: Peaches, nectarines, plums, cherries, and apricots.</p>
+
+<h5>Berries</h5>
+
+<p>Small, typically round or oval fruits that are often used in desserts, jams, and smoothies.</p>
+<p>Examples: Strawberries, blueberries, raspberries, and blackberries.</p>
+
+<h6>Melons</h6>
+
+<p>Large, juicy fruits with a sweet and refreshing taste.</p>
+<p>Examples: Watermelons, cantaloupes, and honeydews.</p>
+
+</body>
+</html>
